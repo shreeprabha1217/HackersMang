@@ -2,8 +2,7 @@
 
 Live-demo code for the HackersMang #HMSep26 talk. Every bug here compiles
 cleanly and has a "happy path" JUnit test that passes — that's the point.
-Each package is self-contained, so you can present them in any order and
-skip whichever ones you're short on time for.
+Each package is self-contained, so you can present them in any order.
 
 ```
 race/           Demo 1 — a race condition, fixed with an atomic type

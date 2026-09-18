@@ -1,0 +1,6 @@
+com/hackersmang/aidemo/txproxy/OrderServiceTest.class
+com/hackersmang/aidemo/race/CounterServiceTest.class
+com/hackersmang/aidemo/silentfailure/NotificationServiceTest.class
+com/hackersmang/aidemo/race/CounterConcurrencyTest.class
+com/hackersmang/aidemo/txproxy/OrderServiceRollbackTest.class
+com/hackersmang/aidemo/nplusone/OrderRepositoryTest.class

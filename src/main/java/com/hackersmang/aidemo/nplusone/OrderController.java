@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
  * next to your browser — /revenue floods it with one query per order,
  * /revenue-fixed prints exactly one.
  */
-@RestController
+@RestController("npOrderController")
 @RequestMapping("/nplusone")
 public class OrderController {
 

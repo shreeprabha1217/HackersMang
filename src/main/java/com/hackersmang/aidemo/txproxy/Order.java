@@ -8,7 +8,7 @@ import jakarta.persistence.Table;
 
 // "order" is a reserved word in H2/SQL (ORDER BY) — must not use the
 // default table name, or table creation and every query break.
-@Entity
+@Entity(name = "TxOrder")
 @Table(name = "txproxy_orders")
 public class Order {
 

@@ -20,7 +20,7 @@ import org.springframework.transaction.annotation.Transactional;
  * There's no exception for this, no startup warning, no log line. The
  * order silently stays committed even when the method around it "fails."
  */
-@Service
+@Service("txOrderService")
 public class OrderService {
 
     private final OrderRepository repository;

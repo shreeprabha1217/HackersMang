@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hackersmang.aidemo.nplusone.OrderRepositoryTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.372 s -- in com.hackersmang.aidemo.nplusone.OrderRepositoryTest

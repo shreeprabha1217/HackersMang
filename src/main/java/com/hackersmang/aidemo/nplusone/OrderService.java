@@ -17,7 +17,7 @@ import org.springframework.transaction.annotation.Transactional;
  * 201. It gets worse in direct proportion to the data, which is exactly
  * why it's invisible with 3 rows of test data and brutal in production.
  */
-@Service
+@Service("npOrderService")
 public class OrderService {
 
     private final OrderRepository repository;
